@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-todotsaws-dev-170832-authRole",
+      "UnauthRoleArn": "arn:aws:iam::894923172428:role/amplify-todotsaws-dev-170832-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::894923172428:role/amplify-todotsaws-dev-170832-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-todotsaws-dev-170832-deployment",
+      "UnauthRoleName": "amplify-todotsaws-dev-170832-unauthRole",
+      "StackName": "amplify-todotsaws-dev-170832",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:894923172428:stack/amplify-todotsaws-dev-170832/642f0e30-504e-11ed-90cc-06af4076d4bb",
+      "AmplifyAppId": "dvm7s1urvzzia"
+    },
+    "categories": {
+      "api": {
+        "todotsaws": {}
+      }
+    }
+  }
+}
